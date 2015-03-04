@@ -21,7 +21,8 @@
 *.dylib
 
 # Executables
-*.exe
+# for pre-built
+# *.exe 
 *.out
 *.app
 *.i*86
